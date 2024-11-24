@@ -33,7 +33,7 @@ Using the trained model, predictions are made on the test data, and the **Mean S
 ### 📊 MSE Comparison for Models of Different Degrees:
 In this implementation, we have also extended the model to consider polynomial regression up to the 6th degree. This allows for a comparison of performance between simple linear regression (1st degree) and higher-order polynomial models. We evaluated each model based on their **Mean Squared Error (MSE)**, providing insights into the trade-offs between model complexity and accuracy.
 
-![MSE Comparison](path/to/MSE-Comparison.png)
+![MSE Comparison](MSE-Comparison.png)
 
 ## 📉 Visualize the Results
 Visualizations of both the training and testing datasets along with the fitted regression models (for both the linear and polynomial regressions) help in visually inspecting the accuracy of the model. This step enhances the understanding of how well the models fit the data.
@@ -42,13 +42,13 @@ Visualizations of both the training and testing datasets along with the fitted r
 
 The linear regression model has been applied to the training dataset and visualized, showing how well the simple model fits the data.
 
-![Training Data with Linear Model](path/to/linear-train.png)
+![Training Data with Linear Model](linear-train.png)
 
 ### 📊 Testing Data with Linear Model:
 
 Similarly, the model is applied to the test data, showcasing its predictive capabilities.
 
-![Testing Data with Linear Model](path/to/linear-test.png)
+![Testing Data with Linear Model](linear-test.png)
 
 ## 🏁 Conclusion
 By following this implementation, you will gain a clear understanding of how linear regression models are built, evaluated, and interpreted using Python. This project demonstrates how powerful libraries like **NumPy**, **Matplotlib**, and **Pandas** can be leveraged for practical machine learning tasks such as regression analysis.
