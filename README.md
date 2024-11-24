@@ -42,13 +42,13 @@ Visualizations of both the training and testing datasets along with the fitted r
 
 The linear regression model has been applied to the training dataset and visualized, showing how well the simple model fits the data.
 
-![Training Data with Linear Model](linear-train.png)
+![Training Data with Linear Model](linear_train.png)
 
 ### 📊 Testing Data with Linear Model:
 
 Similarly, the model is applied to the test data, showcasing its predictive capabilities.
 
-![Testing Data with Linear Model](linear-test.png)
+![Testing Data with Linear Model](linear_test.png)
 
 ## 🏁 Conclusion
 By following this implementation, you will gain a clear understanding of how linear regression models are built, evaluated, and interpreted using Python. This project demonstrates how powerful libraries like **NumPy**, **Matplotlib**, and **Pandas** can be leveraged for practical machine learning tasks such as regression analysis.
