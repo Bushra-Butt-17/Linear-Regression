@@ -1,6 +1,6 @@
 # 📈 Regression Models Implementation
 
-This repository offers a hands-on implementation of linear regression models using Python libraries such as **NumPy**, **Matplotlib**, and **Pandas**. The focus of this project is to demonstrate the application of linear regression techniques on real-world datasets, visualize the data, and evaluate the model's performance by calculating the **Mean Squared Error (MSE)**.
+This repository offers a hands-on implementation of linear regression models using Python libraries such as **NumPy**, **Matplotlib**, and **Pandas**. The focus of this project is to demonstrate the application of **linear regression** techniques on real-world datasets, visualize the data, and evaluate the model's performance by calculating the **Mean Squared Error (MSE)**.
 
 In this project, we use **NumPy** for efficient numerical computations, **Matplotlib** for data visualization, and **Pandas** to manage and manipulate datasets. The goal is to fit a linear regression model on a training dataset, make predictions on test data, and evaluate the model’s accuracy based on the **Mean Squared Error**.
 
